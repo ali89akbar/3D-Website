@@ -19,7 +19,7 @@ const HeroSection = () => {
         duration:1.5,
     }}
     className="text-5xl md:text-7xl font-bold z-10 mb-6">
-    Building fast<br/> Future of 3D & VFX Innovation
+    Future of 3D &  <br/> VFX Innovation
     </motion.h1>
 
     <motion.p 
