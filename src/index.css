@@ -9,4 +9,5 @@ body{
   position: relative;
   background: #000;
   color: white;
+  cursor: pointer;
 }
