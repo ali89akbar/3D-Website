@@ -99,6 +99,7 @@ const ContactSection = () => {
         transition={{ duration: 0.6, delay: Math.random() * 0.2 }}
         viewport={{ once: true }}
         className="relative group"
+        id="contact"
       >
         <motion.div
           animate={{

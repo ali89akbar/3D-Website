@@ -8,6 +8,7 @@ import ServicesSection from './Components/Services/Services';
 import PortfolioSection from './Components/Portfolio/Portfolio';
 import ContactSection from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
+import ExperienceSection from './Components/Experience/ExperienceSection';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
     <AboutSection/>
     <ServicesSection/>
     <PortfolioSection/>
+    <ExperienceSection/>
     <ContactSection/>
     <Footer/>
     </>
