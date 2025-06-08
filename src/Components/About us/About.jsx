@@ -115,7 +115,7 @@ const AboutSection = () => {
             className="relative"
           >
             <img
-              src="src/assets/DP2-removebg-preview.png"
+              src="https://i.ibb.co/ymLXTy6T/DP2-removebg-preview.png"
               alt="About Visual"
               className="max-w-md w-full object-contain relative z-10"
             />

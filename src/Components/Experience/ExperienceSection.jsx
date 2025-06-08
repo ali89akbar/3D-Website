@@ -437,7 +437,7 @@ const ExperienceSection = () => {
             whileHover={{ scale: 1.05 }}
             className="p-6 bg-white/10 backdrop-blur-sm rounded-2xl border border-white/20"
           >
-            <div className="text-4xl font-bold text-white mb-2">4+</div>
+            <div className="text-4xl font-bold text-white mb-2">1.5+</div>
             <div className="text-gray-300">Years Experience</div>
           </motion.div>
           <motion.div
