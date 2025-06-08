@@ -4,6 +4,7 @@ import Header from './Components/Header/Header';
 import HeroSection from './Components/Hero/HeroSection';
 import CustomCursor from './Components/CustomCursor/CustomCursor';
 import AboutSection from './Components/About us/About';
+import ServicesSection from './Components/Services/Services';
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <HeroSection/>
     <CustomCursor/>
     <AboutSection/>
+    <ServicesSection/>
     </>
   )
 }
